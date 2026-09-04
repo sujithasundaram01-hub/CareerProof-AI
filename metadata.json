@@ -1,0 +1,10 @@
+{
+  "name": "CareerProof AI",
+  "description": "AI-powered career readiness and job preparation platform connecting resume analysis, job matching, skill gap analysis, personalized roadmaps, project verification, GitHub intelligence, SkillProof tests, AI mock interviews, real job simulations, application tracking, and the Career Replay Engine.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
